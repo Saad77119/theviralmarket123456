@@ -12,7 +12,7 @@ document.addEventListener(
     iosSettings["kOSSettingsKeyAutoPrompt"] = false;
     iosSettings["kOSSettingsKeyInAppLaunchURL"] = false;
 
-    window.plugins.OneSignal.startInit("6c27fc35-6b21-4772-a6b8-819d444b763e")
+    window.plugins.OneSignal.startInit("e1cdcacc-2061-4353-9525-6ae105c5112d")
       .handleNotificationOpened(notificationOpenedCallback)
       .iOSSettings(iosSettings)
       .inFocusDisplaying(
