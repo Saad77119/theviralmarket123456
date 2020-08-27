@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.em.theviralmarketer.app" version="1.0.2">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.emaralack.theviralmarketer.app" version="2.0.1">
    <name>TheViralMarketer</name>
    <description />
    <author email="mraza8040@gmail.com" href="http://dusthq.com">Muhammad Raza</author>
