@@ -60,7 +60,7 @@ function onOffline() {
 }
 
 function openBrowser() {
-  var url = "https://www.theviralmarketer.biz//login.php";
+  var url = "https://www.theviralmarketer.biz/";
   var target = "_blank";
   var options = "location=no,toolbar=no";
   var ref = cordova.InAppBrowser.open(url, target, options);
